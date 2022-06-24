@@ -4,6 +4,7 @@
   margin: 0;
   padding: 0;
   
+  
 }
 
 .sidebar {
@@ -118,6 +119,7 @@
   
     margin: 0 40px ;
   }
+  
 #emailHelp {
   font-size: 11px;
   color: midnightblue;
@@ -190,9 +192,15 @@
   background-color: green;
 }
 .fifty {
-  width: 125px;
-  background-color: yellow;
-}
+    background: #353b48;
+    display: block;
+    height: 8px;
+    border: 1px solid rgba(0,0,0,0.3);
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0 0 10px #2187e7b3;
+  }
+  
 .ts {
   width: 75px;
   background-color: red;

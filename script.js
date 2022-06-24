@@ -15,3 +15,6 @@ document.querySelector('.hamburger').addEventListener("click",()=>{
     }
     
 })
+//width: 125px;
+//background-color: yellow;
+//}
